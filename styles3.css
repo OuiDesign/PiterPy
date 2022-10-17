@@ -277,7 +277,7 @@ body {
   -webkit-backdrop-filter: blur(22.5px);
   /*border: 1px solid #62FFB2;*/
   margin-bottom: 1.5rem;
-  padding: 4.6rem 2.3rem;
+  padding: 4.714vh 2.9vw;
   overflow: visible;
 }
 
@@ -695,14 +695,14 @@ td:nth-child(2) {
   width: 42px;
   height: 42px;
   align-self: end;
-  background-image: url("../../assets/img/arrow.svg");
+  background-image: url("https://static.tildacdn.com/tild3661-3239-4632-b436-363737616266/arrow-hover.svg");
   background-position: center center;
   background-repeat: no-repeat no-repeat;
   background-size: cover;
 }
 
 .career-arrow:hover {
-  background-image: url("../../assets/img/arrow-hover.svg");
+  background-image: url("https://static.tildacdn.com/tild3135-6565-4364-a362-346134386230/arrow.svg");
 }
 
 .career-wrapper {
@@ -1092,7 +1092,7 @@ td:nth-child(2) {
   -webkit-backdrop-filter: blur(22.5px);
   /*border: 1px solid #62FFB2;*/
   margin-bottom: 1.5rem;
-  padding: 4.6rem 2.3rem;
+  padding: 4.714vh 2.9vw;
   overflow: visible;
 }
 
@@ -1510,14 +1510,14 @@ td:nth-child(2) {
   width: 42px;
   height: 42px;
   align-self: end;
-  background-image: url("../../assets/img/arrow.svg");
+  background-image: url("https://static.tildacdn.com/tild3661-3239-4632-b436-363737616266/arrow-hover.svg");
   background-position: center center;
   background-repeat: no-repeat no-repeat;
   background-size: cover;
 }
 
 .career-arrow:hover {
-  background-image: url("../../assets/img/arrow-hover.svg");
+  background-image: url("https://static.tildacdn.com/tild3135-6565-4364-a362-346134386230/arrow.svg");
 }
 
 .career-wrapper {
